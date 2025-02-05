@@ -1,0 +1,14 @@
+{
+  "INTERVAL": 1000,
+  "DOMAINS": [
+    { "url": "https://get.leaffilter.ca", "active": true },
+    { "url": "https://get.leafhomesafetysolutions.com", "active": true },
+    { "url": "https://get.leafhomewatersolutions.com", "active": true },
+  
+    { "url": "https://www.leaffilter.ca", "active": true },
+    { "url": "https://www.leaffilter.com", "active": true },
+    { "url": "https://www.leafhome.com", "active": true },
+    { "url": "https://www.leafhomesafetysolutions.com", "active": true },
+    { "url": "https://www.leafhomewatersolutions.com", "active": true }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "leaf--vertical-monitor-uptime",
+  "version": "1.0.0",
+  "description": "Generate a CSV of uptime data.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
